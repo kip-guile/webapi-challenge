@@ -26,13 +26,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+Learnt how to use middlewares and routersl
+
 - [ ] Describe Middleware?
+
+Middleware is an array of functions that get executed in the order they are introduced into the server code
 
 - [ ] Describe a Resource?
 
+A resource is data that can be accessed via a unique url
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+A status code of 200
+
 - [ ] How can we partition our application into sub-applications?
+
+We can do this using express routers
 
 ## Project Setup
 
